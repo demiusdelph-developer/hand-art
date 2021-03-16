@@ -330,6 +330,7 @@ $lang['user_comments_title'] = 'Мої коментарі';
 $lang['user_wishlist_title'] = 'Вибрані товари';
 $lang['user_browsed_title'] = 'Переглянуті товари';
 $lang['discount_coupon_name'] = 'Купон';
+$lang['discounted'] = 'Акції';
 $lang['discount_coupon_description'] = '{$coupon}';
 $lang['discount_user_group_name'] = 'Група покупця';
 $lang['discount_user_group_description'] = '{$user_group}';

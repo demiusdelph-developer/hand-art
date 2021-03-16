@@ -59,7 +59,7 @@ smarty_force_compile = false
 debug_translation = false
 scripts_defer = true
 ;Режим разработчика, пока только в админке подписывает блоки
-dev_mode = false
+dev_mode = true
 preload_head_css = false
 preload_head_js = false
 preload_footer_css = false
